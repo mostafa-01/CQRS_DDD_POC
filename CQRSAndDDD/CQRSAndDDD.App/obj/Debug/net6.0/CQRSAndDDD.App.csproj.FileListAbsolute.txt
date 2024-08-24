@@ -1,0 +1,5 @@
+D:\personal\CQRSAndDDD\CQRSAndDDD.App\obj\Debug\net6.0\CQRSAndDDD.App.csproj.AssemblyReference.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.App\obj\Debug\net6.0\CQRSAndDDD.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\CQRSAndDDD\CQRSAndDDD.App\obj\Debug\net6.0\CQRSAndDDD.App.AssemblyInfoInputs.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.App\obj\Debug\net6.0\CQRSAndDDD.App.AssemblyInfo.cs
+D:\personal\CQRSAndDDD\CQRSAndDDD.App\obj\Debug\net6.0\CQRSAndDDD.App.csproj.CoreCompileInputs.cache

@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\personal\\CQRSAndDDD\\CQRSAndDDD_POC\\CQRSAndDDD_POC.csproj": {}
+  },
+  "projects": {
+    "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.App\\CQRSAndDDD.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.App\\CQRSAndDDD.App.csproj",
+        "projectName": "CQRSAndDDD.App",
+        "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.App\\CQRSAndDDD.App.csproj",
+        "packagesPath": "C:\\Users\\mosama\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mosama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj": {
+                "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj"
+              },
+              "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj": {
+                "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj",
+        "projectName": "CQRSAndDDD.Domain",
+        "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\mosama\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mosama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj",
+        "projectName": "CQRSAndDDD.Infrastrucure",
+        "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj",
+        "packagesPath": "C:\\Users\\mosama\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mosama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj": {
+                "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Domain\\CQRSAndDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\personal\\CQRSAndDDD\\CQRSAndDDD_POC\\CQRSAndDDD_POC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD_POC\\CQRSAndDDD_POC.csproj",
+        "projectName": "CQRSAndDDD_POC",
+        "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD_POC\\CQRSAndDDD_POC.csproj",
+        "packagesPath": "C:\\Users\\mosama\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD_POC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mosama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.App\\CQRSAndDDD.App.csproj": {
+                "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.App\\CQRSAndDDD.App.csproj"
+              },
+              "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj": {
+                "projectPath": "D:\\personal\\CQRSAndDDD\\CQRSAndDDD.Infrastrucure\\CQRSAndDDD.Infrastrucure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.21.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

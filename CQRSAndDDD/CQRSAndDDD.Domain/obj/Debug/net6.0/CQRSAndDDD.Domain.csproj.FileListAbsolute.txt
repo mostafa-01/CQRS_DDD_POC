@@ -1,0 +1,12 @@
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\bin\Debug\net6.0\CQRSAndDDD.Domain.deps.json
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\bin\Debug\net6.0\CQRSAndDDD.Domain.dll
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\bin\Debug\net6.0\CQRSAndDDD.Domain.pdb
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.csproj.AssemblyReference.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.AssemblyInfoInputs.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.AssemblyInfo.cs
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.csproj.CoreCompileInputs.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.dll
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\refint\CQRSAndDDD.Domain.dll
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\CQRSAndDDD.Domain.pdb
+D:\personal\CQRSAndDDD\CQRSAndDDD.Domain\obj\Debug\net6.0\ref\CQRSAndDDD.Domain.dll

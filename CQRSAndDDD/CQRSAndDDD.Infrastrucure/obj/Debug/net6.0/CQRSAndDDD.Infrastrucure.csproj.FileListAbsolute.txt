@@ -1,0 +1,5 @@
+D:\personal\CQRSAndDDD\CQRSAndDDD.Infrastrucure\obj\Debug\net6.0\CQRSAndDDD.Infrastrucure.csproj.AssemblyReference.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.Infrastrucure\obj\Debug\net6.0\CQRSAndDDD.Infrastrucure.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\CQRSAndDDD\CQRSAndDDD.Infrastrucure\obj\Debug\net6.0\CQRSAndDDD.Infrastrucure.AssemblyInfoInputs.cache
+D:\personal\CQRSAndDDD\CQRSAndDDD.Infrastrucure\obj\Debug\net6.0\CQRSAndDDD.Infrastrucure.AssemblyInfo.cs
+D:\personal\CQRSAndDDD\CQRSAndDDD.Infrastrucure\obj\Debug\net6.0\CQRSAndDDD.Infrastrucure.csproj.CoreCompileInputs.cache
